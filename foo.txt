@@ -1,0 +1,3 @@
+foo = "Initial value"
+bar = "Initial value"
+
